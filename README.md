@@ -12,7 +12,7 @@ End-to-end data science project on governmental road accident data:
 Python, Pandas, Scikit-learn, Plotly Express, PyTorch
 
 ## Data Source
-[data.gouv.fr - Bases de données annuelles des accidents corporels](https://www.data.gouv.fr/fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-2005-a-2022/)
+[data.gouv.fr - Bases de données annuelles des accidents corporels](https://www.data.gouv.fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2024)
 
 ## Results
 
